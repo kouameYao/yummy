@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "936197080682",
+    "project_id": "email-login-c5265",
+    "storage_bucket": "email-login-c5265.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:936197080682:android:d6c4ae6ed10894e26a6c13",
+        "android_client_info": {
+          "package_name": "com.angevald.yummy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "936197080682-6ikl47vjva4k8krs0cv1kvq6rqs8jsmu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhTjUW-oNhMWsl-ki1eXcRz-0gPF8ho0M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "936197080682-6ikl47vjva4k8krs0cv1kvq6rqs8jsmu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
