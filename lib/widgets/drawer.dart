@@ -1,8 +1,8 @@
-import 'package:firebase_auth/firebase_auth.dart';
+// import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
-import 'package:yummy/screens/about_screen.dart';
-import 'package:yummy/screens/login.dart';
-import 'package:yummy/screens/settings_screen.dart';
+import 'package:yummy/screens/home/about_screen.dart';
+import 'package:yummy/screens/auth/login.dart';
+import 'package:yummy/screens/home/settings_screen.dart';
 
 class AppDrawer extends StatelessWidget {
   @override

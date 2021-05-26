@@ -20,7 +20,9 @@ dependencies:
   cupertino_icons: ^1.0.0
   firebase_core: ^1.2.0
   firebase_auth: ^1.2.0
-
+  cloud_firestore: ^2.2.0
+  google_fonts: ^2.1.0
+  image_picker: ^0.7.5+3
 dev_dependencies:
   flutter_test:
     sdk: flutter
@@ -36,8 +38,8 @@ flutter:
     - image/
 
 
-#  fonts:
-#   - family: Pattaya
-#     fonts:
-#     - asset: fonts/Pattaya-Regular.ttf
+fonts:
+  - family: Pattaya
+    fonts:
+      - asset: fonts/Pattaya-Regular.ttf
 

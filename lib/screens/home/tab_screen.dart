@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
-import 'package:yummy/screens/about_screen.dart';
-import 'package:yummy/screens/profile_screen.dart';
-import 'package:yummy/screens/settings_screen.dart';
+import 'package:yummy/screens/home/about_screen.dart';
+import 'package:yummy/screens/home/profile_screen.dart';
+import 'package:yummy/screens/home/settings_screen.dart';
 import 'package:yummy/widgets/drawer.dart';
 import 'favorite_screen.dart';
 import 'home_screen.dart';
-import 'login.dart';
+import '../auth/login.dart';
 
 class TabScreen extends StatefulWidget {
   @override

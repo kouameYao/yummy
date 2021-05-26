@@ -1,7 +1,6 @@
 import 'package:firebase_auth/firebase_auth.dart';
-// import 'package:yummy/screens/tab_screen.dart';
 import 'package:flutter/material.dart';
-import 'package:yummy/screens/login.dart';
+import 'package:yummy/screens/auth/login.dart';
 
 class CreateScreen extends StatefulWidget {
   @override
